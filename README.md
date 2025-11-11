@@ -74,7 +74,7 @@ The **interactive Power BI dashboard** helps business teams track KPIs, evaluate
 📌 Provides insights for **inventory optimization** and **marketing strategy**.  
 📌 Equips leadership with a **single-page interactive dashboard** for quick decision-making.  
 
----
+----
 
 ## 🔹 Author  
 👤 **Ganesh Markanti**  
